@@ -1,0 +1,6 @@
+Lorsque vous travaillez sur plusieurs branches, il va souvent vous arriver de vouloir ajouter  dans une branche A les mises à jour que vous avez faites dans une autre branche B. Pour cela, on se place dans la branche A :
+
+git checkout brancheA
+Puis on utilise la commande git merge : 
+
+git merge brancheB
